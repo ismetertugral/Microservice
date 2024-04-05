@@ -1,7 +1,6 @@
 ﻿using AccountService.API.Dtos;
 using AccountService.Data.Entites;
 using AccountService.Data.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AccountService.API.Controllers
